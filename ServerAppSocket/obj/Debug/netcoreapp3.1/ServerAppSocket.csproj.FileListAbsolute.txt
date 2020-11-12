@@ -1,0 +1,13 @@
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\bin\Debug\netcoreapp3.1\ServerAppSocket.exe
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\bin\Debug\netcoreapp3.1\ServerAppSocket.deps.json
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\bin\Debug\netcoreapp3.1\ServerAppSocket.runtimeconfig.json
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\bin\Debug\netcoreapp3.1\ServerAppSocket.runtimeconfig.dev.json
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\bin\Debug\netcoreapp3.1\ServerAppSocket.dll
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\bin\Debug\netcoreapp3.1\ServerAppSocket.pdb
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\obj\Debug\netcoreapp3.1\ServerAppSocket.csprojAssemblyReference.cache
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\obj\Debug\netcoreapp3.1\ServerAppSocket.AssemblyInfoInputs.cache
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\obj\Debug\netcoreapp3.1\ServerAppSocket.AssemblyInfo.cs
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\obj\Debug\netcoreapp3.1\ServerAppSocket.csproj.CoreCompileInputs.cache
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\obj\Debug\netcoreapp3.1\ServerAppSocket.dll
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\obj\Debug\netcoreapp3.1\ServerAppSocket.pdb
+C:\Users\Luka_ry90\source\repos\ServerAppSocket\ServerAppSocket\obj\Debug\netcoreapp3.1\ServerAppSocket.genruntimeconfig.cache
